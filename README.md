@@ -67,6 +67,9 @@ Classroom Playlist
 |Track Title|Artist|Notes|
 |-----------|------|-----|
 |Taxi (theme song)|Bob James||
+|My Walking Stick|Leon Redbone||
+|Stairway to Heaven|Luca Stricagnoli||
+
 
 
 
