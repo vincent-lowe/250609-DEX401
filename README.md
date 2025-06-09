@@ -69,6 +69,9 @@ Classroom Playlist
 |Taxi (theme song)|Bob James||
 |My Walking Stick|Leon Redbone||
 |Stairway to Heaven|Luca Stricagnoli||
+|Can't let Go|Lucinda Williams||
+|It Ain't Over Yet|Rodney Crowell||
+
 
 
 
