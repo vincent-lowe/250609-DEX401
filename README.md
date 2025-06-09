@@ -9,21 +9,21 @@ vlowe@salesforce.com
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:						https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:							
+Attendance Code:							EYDSM1
 
 Salesforce Mimeo:							https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:					
+eBook Redemption Key:					USU4PXHKJSO9
 
 -------------------------------------------------------------------------------------------------------------------
-Survey Link:									https://www.research.net/r/trailheadacademy
+Survey Link:								https://www.research.net/r/trailheadacademy
 
-Survey ID:										
+Survey ID:									TASM-036752
 
 -------------------------------------------------------------------------------------------------------------------
-[Zoom Link:](https://salesforce-training.zoom.us/j/83922746989?pwd=h3Vo1DbwbQOzFnuHX8jgbOu9ysXTbt.1)
+Zoom Link:                          
 
-Meeting ID: 
+Meeting ID:                         85741576524
 
 Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#DEX401
 
