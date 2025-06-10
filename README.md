@@ -71,6 +71,7 @@ Classroom Playlist
 |Stairway to Heaven|Luca Stricagnoli||
 |Can't let Go|Lucinda Williams||
 |It Ain't Over Yet|Rodney Crowell||
+|Foggy Mountain Breakdown|Earl Scruggs||
 
 
 
