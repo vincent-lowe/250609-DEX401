@@ -75,6 +75,8 @@ Classroom Playlist
 |Sweet Home Alabama|Luca Stricacgnoli|One man, three guitar knecks|
 |Hotel California|Laszlo Buring|not really Johnny Cash at all|
 |Here We Go Again|Ray Charles and Norah Jones|Genius Loves Company|
+|Just Dropped In (to see what my condition was in)|Willie Nelson|The Great Divide|
+|Closing Time|Lyle Lovett and Nanci Griffith|Live Recording|
 
 
 
