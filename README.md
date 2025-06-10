@@ -77,6 +77,7 @@ Classroom Playlist
 |Here We Go Again|Ray Charles and Norah Jones|Genius Loves Company|
 |Just Dropped In (to see what my condition was in)|Willie Nelson|The Great Divide|
 |Closing Time|Lyle Lovett and Nanci Griffith|Live Recording|
+|Crazy He Calls Me|Billie Holiday||
 
 
 
