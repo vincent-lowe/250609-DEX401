@@ -1,8 +1,8 @@
-# 250609-DEX401
+# 250609-DEX480
 
-Touch point for students of June Mulesoft Fundamentals
+Touch point for students of June Mulesoft DataWeave
 
-DEX401 - Anypoiont Development Fundamentals Classroom Reference - 250609 - PDT
+DEX401 - Anypoiont Development: DataWeave Classroom Reference - 250609 - PDT
 
 Vincent Lowe
 vlowe@salesforce.com
@@ -25,7 +25,7 @@ Zoom Link:
 
 Meeting ID:                         85741576524
 
-Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#DEX401
+Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#DEX480
 
 Advanced REST Client: https://github.com/advanced-rest-client/arc-electron/releases/tag/v17.0.9
 
