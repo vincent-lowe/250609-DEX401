@@ -74,6 +74,8 @@ Classroom Playlist
 |Foggy Mountain Breakdown|Earl Scruggs||
 |Sweet Home Alabama|Luca Stricacgnoli|One man, three guitar knecks|
 |Hotel California|Laszlo Buring|not really Johnny Cash at all|
+|Here We Go Again|Ray Charles and Norah Jones|Genius Loves Company|
+
 
 
 
