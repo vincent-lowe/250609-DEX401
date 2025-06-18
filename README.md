@@ -6,6 +6,13 @@ DEX401 - Anypoiont Development: DataWeave Classroom Reference - 250609 - PDT
 
 Vincent Lowe
 vlowe@salesforce.com
+
+### Final Thoughts
+
+Update: I will remove this repo at the end of July. If you want to continue to access any of the material here you may clone it to your local system, or if you wish, you can fork the repo and you will simply have a personal replica of your own. Good luck and have fun building great things.
+
+---v 6/18/25
+
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:						https://trailheadacademy.salesforce.com/my-learning
 
